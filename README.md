@@ -1,2 +1,2 @@
-# minecraft-
-info
+# minecraft
+
